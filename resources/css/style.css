@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+  font-family: helvetica;
+}
+
+.banner {
+  background-image: url("../../resources/images/the-flatiron-building.png");
+  background-position: center;
+  background-color: transparent;
+}
+
+.broadwaydesign {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.banner a {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.subheading {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.newyork .banner{
+  color: white;
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer p{
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.footer a{
+  color: white;
+}
